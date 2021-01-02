@@ -14,7 +14,7 @@ description:      'Teaching the tools to get computers to do cool science'
 url:              http://atyre2.github.io/semester-biology
 baseurl:          /semester-biology
 email:            atyre2@unl.edu
-feedbackurl:      docs.google.com/forms/d/1y35uJukuZ9MPKQWWqw0Y8R4VOiaOtFJezDY_t_kJfTs/
+feedbackurl:      https://docs.google.com/forms/d/e/1FAIpQLSciEfC3grNKydjqKUedNQC3jBfHxxMtXuwITZy4S7nSedL2RQ/viewform?usp=sf_link
 author:
   name:           'Drew Tyre'
   url:            https://drewtyre.rbind.io
